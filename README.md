@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Node.js ile Backend Eğitğimi
 
 ## Installation
 
----
+
 
 Öncelikle projeyi clonelayın.
 
@@ -18,7 +18,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Node.js ile Backend Eğitğimi
 
 ## Usage
 
----
+
 
 Linux için:
 
@@ -31,12 +31,12 @@ Linux için:
 
 ## Contributing
 
----
+
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
 
----
+
 
 [MIT](https://choosealicense.com/licenses/mit/)
