@@ -1,4 +1,4 @@
-# Kodluyoruz Ilk Repo
+# KODLUYORUZ ILK REPO
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Node.js ile Backend Eğitğiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası bir adet de index.html barındırıyor.
 
